@@ -1,0 +1,69 @@
+{
+	"version":"11-1-2017-10:23am-SM-zh_cn_01",    
+	"audioLoader": {
+        "yes": "是",
+        "no": "否",
+        "confirm": "是否打开音乐?"
+    },
+    "title": "大秘宝传说",
+    "MenuCommand": {
+		"WLA":{
+			"howToPlay": "游戏规则",
+			"payTable": "赔率表",
+			"price": "投注列表",
+			"stake": "单注金额",
+			"balance": "余额"     
+		},
+		"Commercial":{
+			"howToPlay": "游戏规则",
+			"payTable": "赔率表",
+			"price": "投注列表",
+			"stake": "单注金额",
+			"balance": "余额"     
+		},
+		"audio": {
+			"on": "是",
+			"off": "否",
+			"sound": "声音"
+		}
+    },
+    "Error": {},
+	"demo": 								"演示 ",
+	"button_play": 							"打捞",
+	"button_buy": 							"购买",
+	"button_try": 							"试玩",
+	"meter_division":						" | ",
+	"button_continue":						"继续",
+	"button_close":							"确定",
+	"buttonClose":							"X",
+	"button_move2moneyGame":				"现金游戏",
+	"wagerDim":  							"单注金额",
+	"wager":								"单注金额: ",
+	"balance":								"余额: ",
+	"wins":									"奖励: ",
+	"wins_demo":							"演示奖励: ",
+	"button_reveal":						"自动打捞",
+	"button_restart":						"再玩一次",
+	"button_tryRestart":					"再玩一次",
+	"button_cancel_reveal":					"取消自动",
+	"message_nonWin":						"下次好运",
+	"message_buyWin":						"恭喜，你赢得了",
+	"message_tryWin":						"恭喜，\n运气不错，试试现金游戏吧",
+	"message_anonymous_tryWin":				"恭喜，\n运气不错，试试现金游戏吧",
+	"select_treasure":						"选择一个宝箱",
+	"ui_prizeBox":							"奖金",
+	"ui_winUpToAmount":						"最高可得",
+	"button_exit":							"离开",
+	"session_timeout_warning_exit_button":	"离开",
+	"PrizeXBonus":							"玩法说明",
+	"error_button_exit":                    "退出",
+	"warning_button_continue": 				"继续",
+	"warning_button_exitGame": 				"退出游戏",
+	"warning_title":						"警告",
+	"error_title":							"错误",
+	"your_number":							"你的图标",
+	"luck_number":							"中奖图标",           
+	"paytableWager": 						"单注金额: ",
+	"help_text_landscape":					"点击左右键控制船体移动，\n点击打捞键从沉船中获得宝物。\n你共有7次机会，集齐任意一种宝物，\n即可获得相应的奖励。\n如果抓到章鱼，\n即可进入奖赏游戏。",
+    "help_text_portrait":	                "点击左右键控制船体移动，\n点击打捞键从沉船中获得宝物。\n你共有7次机会，\n集齐任意一种宝物，\n即可获得相应的奖励。\n如果抓到章鱼，\n即可进入奖赏游戏。"
+}

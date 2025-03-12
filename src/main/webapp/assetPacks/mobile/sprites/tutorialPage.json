@@ -1,0 +1,20 @@
+{
+
+"images": [
+    "tutorialPage.png"
+],
+
+"frames": [
+    [1, 1, 744, 448, 0, 0, 0]
+],
+
+"animations": {
+    "tutorialPage": { "frames": [0] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:47c8dbb55601b9611c2fef35a46a0ef6:fffcf4ebe6f9dff3667bfcfd2621c10d:f77aa9228fd71365492915710f93e2a8$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

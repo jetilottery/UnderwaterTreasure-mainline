@@ -1,0 +1,74 @@
+{			
+    "version": "11-1-2017-10:21am-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Yes",
+        "no": "No",
+        "confirm": "Would you like sound?"
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+    },
+    "title": "Treasure Trawler",
+    "MenuCommand": {
+		"WLA":{
+			"howToPlay": "How to Play",
+			"payTable": "Prize Table",
+			"price": "Price",
+			"stake": "Stake",
+			"balance": "Balance"                
+		},
+		"Commercial":{
+			"howToPlay": "Game Rules",
+			"payTable": "Paytable",
+			"price": "Price",
+			"stake": "Stake",
+			"balance": "Balance"     
+		},
+		"audio": {
+			"on": "On",
+			"off": "Off",
+			"sound": "Sound"
+		}
+    },
+    "Error": {},
+	"demo": 								"TRY ",
+	"button_play": 							"TRAWL",
+	"button_buy": 							"BUY",
+	"button_try": 							"TRY",
+	"meter_division":						" | ",
+	"button_continue":						"CONTINUE",
+	"button_close":							"OK",
+	"buttonClose":							"X",
+	"button_move2moneyGame":				"MOVE TO MONEY",
+	"wagerDim":  							"TICKET COST",
+	"wager":								"Ticket Cost: ",
+	"balance":								"Balance: ",
+	"wins":									"Win: ",
+	"wins_demo":							"Demo Win: ",
+	"button_reveal":						"AUTO PLAY",
+	"button_restart":						"PLAY AGAIN",
+	"button_tryRestart":					"TRY AGAIN",
+	"button_cancel_reveal":					"STOP",
+	"message_nonWin":						"BETTER LUCK\nNEXT TIME",
+	"message_buyWin":						"CONGRATULATIONS!\nYou have won",
+	"message_tryWin":						"THANKS FOR PLAYING!\nYou could have won",
+	"message_anonymous_tryWin":				"THANKS FOR PLAYING!\nYou could have won",
+	"select_treasure":						"Choose a treasure chest!",
+	"ui_prizeBox":							"PRIZE\nBOX",
+	"ui_winUpToAmount":						"WIN UP TO",
+	"button_exit":							"EXIT",
+	"session_timeout_warning_exit_button":	"EXIT",
+	"PrizeXBonus":							"How to Play",
+	"error_button_exit":                    "EXIT",
+	"warning_button_continue": 				"CONTINUE",
+	"warning_button_exitGame": 				"EXIT",
+	"error_title":							"ERROR",
+	"prizeLevel": "Prize Level",
+	"prizeValue": "Prize Value",
+	"paytableWager": "Ticket Cost: ",
+	"help_text_landscape":					"Use the arrows to turn the wheel and move the ship left and right.\nSelect TRAWL to lower the crane and haul in the sunken ship's treasures or a bonus round octopus.\nCollect a complete set of treasures and/or a gold bar to win!",
+    "help_text_portrait":	                "Use the arrows to turn the wheel and move the ship left and right.\nSelect TRAWL to lower the crane and haul in the sunken ship's treasures or a bonus round octopus.\nCollect a complete set of treasures and/or a gold bar to win!"
+}

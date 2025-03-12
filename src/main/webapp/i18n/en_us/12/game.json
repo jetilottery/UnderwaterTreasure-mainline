@@ -1,0 +1,66 @@
+{			
+    "version": "5-15-2017-4:56pm-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Yes",
+        "no": "No",
+        "confirm": "Would you like sound?"
+    },
+    "title": "UnderwaterTreasure",
+	"loading_screen_loading": 				"LOADING",
+	"demo": 								"DEMO ",
+	"button_play": 							"TRAWL",
+	"button_buy": 							"BUY",
+	"button_try": 							"TRY",
+	"meter_division":						" | ",
+	"button_continue":						"CONTINUE",
+	"button_close":							"CLOSE",
+	"buttonClose":							"X",
+	"button_move2moneyGame":				"MOVE TO MONEY",
+	"wagerDim":  							"TICKET COST",
+	"wager":								"Ticket Cost: ",
+	"balance":								"Balance: ",
+	"wins":									"Win: ",
+	"wins_demo":							"Demo Win: ",
+	"button_reveal":						"AUTO PLAY",
+	"button_restart":						"PLAY AGAIN",
+	"button_tryRestart":					"TRY AGAIN",
+	"button_cancel_reveal":					"STOP",
+	"MenuCommand": {
+            "WLA":{
+                "howToPlay": "Game Rules",
+                "payTable": "Prize Table",
+                "price": "Price",
+                "stake": "Stake",
+                "balance": "Balance"                
+            },
+            "Commercial":{
+                "howToPlay": "Game Rules",
+		"payTable": "Paytable",
+                "price": "Price",
+                "stake": "Stake",
+                "balance": "Balance"     
+            },
+            "audio":{
+                "on":"On",
+                "off":"Off",
+                "sound":"Sound"
+            }
+	},
+	"message_nonWin":						"BETTER LUCK\nNEXT TIME",
+	"message_buyWin":						"Congratulations!\nYou have won",
+	"message_tryWin":						"Thanks for playing!\nYou could have won",
+	"message_anonymous_tryWin":				"Thanks for playing!\nYou could have won",
+	"select_treasure":						"Choose a treasure chest!",
+	"ui_prizeBox":							"PRIZE\nBOX",
+	"ui_winUpToAmount":						"WIN UP TO",
+	"button_exit":							"EXIT",
+	"session_timeout_warning_exit_button":	"EXIT",
+	"PrizeXBonus":							"How to Play",
+	"error_button_exit":                    "EXIT",
+	"warning_button_continue": 				"CONTINUE",
+	"warning_button_exitGame": 				"EXIT",
+	"warning_title":						"WARNING",
+	"error_title":							"ERROR",
+	"help_text_landscape":					"Use the arrows to turn the wheel and move the ship left and right.\nSelect TRAWL to lower the crane and haul in the sunken ship's treasures or a bonus round octopus.\nCollect a complete set of treasures and/or a gold bar to win!",
+    "help_text_portrait":	                "Use the arrows to turn the wheel and move the ship left and right.\nSelect TRAWL to lower the crane and haul in the sunken ship's treasures or a bonus round octopus.\nCollect a complete set of treasures and/or a gold bar to win!"
+}

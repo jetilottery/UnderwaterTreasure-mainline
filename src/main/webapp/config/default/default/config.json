@@ -1,0 +1,6 @@
+{
+    "fish_proportion": 0.5,
+    "bonus_suspend_time_sea": 1000,
+    "bonus_suspend_time_after_click_lotus":3500,
+    "frames_per_sec":18
+}
